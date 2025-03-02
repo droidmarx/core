@@ -1,0 +1,4 @@
+{
+  "version": 2,
+  "routes": [{ "src": "/api/clientes", "dest": "api/index.js" }]
+}
